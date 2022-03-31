@@ -1,0 +1,15 @@
+{
+  "name": "2.3-data-assignment",
+  "version": "1.0.0",
+  "description": "my work for 2.3",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Esquivel",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
